@@ -1,0 +1,18 @@
+body{
+    background-color: aqua;
+    background-image: url(../background\ menu.jpg);
+    width:100px;
+    height:100px;
+    background-position: auto;
+    background-size: cover;
+}
+h1{
+    align-items: center;
+    margin: 20px;
+    margin-left: 500px;
+    font-size: 40px;
+    font-style: italic;
+}
+img{
+    border-color: black;
+}
