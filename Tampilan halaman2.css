@@ -1,0 +1,25 @@
+body{
+    background-color: aqua;
+    background-image: url(../UAS/background\ menu.jpg);
+    width:100px;
+    height:100px;
+    background-size: cover;
+    background-position: cover;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    width:50vh;
+    height: 70px;
+    align-items: center;
+    margin-left: 500px;
+    background-color: rgba(27, 2, 2, 0.308);
+    border-radius: 20px;
+    margin-top: 10px;
+    
+}
+form h1{
+    align-items: center;
+
+}
+
